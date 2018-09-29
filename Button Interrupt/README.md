@@ -1,3 +1,6 @@
+Author: Joseph DiBenedetto,
+Last Edit: 09/28/2018
+
 # Button Interrupt
 The first part of this lab required the use of interrupts to make a button blink an LED. By using an interrupt, the microcontroller does not constantly have to be searching for a value change from the button being pressed, and instead uses the board's peripherals to send a signal to the processor only when the button is pressed. This is a far more efficient method for the prcessor and is a big part of the reason these peripherals are on the board in the first place. 
 
